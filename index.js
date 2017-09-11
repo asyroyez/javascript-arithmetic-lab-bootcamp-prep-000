@@ -22,8 +22,8 @@ function dec(n) {
   return n -= 1
 }
 
-function makeInt(n) {
-  return n.toString().toEqual(10)
+function makeInt(a) {
+  return n.toString().toEqual(n)
 }
 
 function preserveDecimal(n) {
