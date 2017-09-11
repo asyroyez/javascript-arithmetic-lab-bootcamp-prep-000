@@ -23,7 +23,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return makeInt(n, 10)
+  a.toString().toEqual(10)
+  return makeInt(n, a)
 }
 
 function preserveDecimal(n) {
